@@ -1,0 +1,18 @@
+body {
+  background-color: silver;
+  border-color: black;
+}
+
+tr {
+  border-color: salmon;
+}
+
+td {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 34px;
+  font-family: "Times New Roman", Times, serif;
+  color: salmon;
+}
